@@ -14,33 +14,36 @@
   - Entrada/Saída
     - monitor touch screen
     - impressora multifuncional
+- Modulos de E/S
   - 
-  - 
-  - 
-  - Existe protocolo de comunicação ou é somente entrada e saída?
-  - Entrada até registradores
-  - Registradores até saída
 
+
+### Minhas quests:
+  - ***Existe protocolo de comunicação ou é somente entrada e saída?***
+  - ***Até aonde posso introduzir assusntos relacionados ao firmware, sem entrar no assunto de "Memórias ROM"?***
 #
 
 ## Tentar mostrar algum exemplo prático.
 
-    - tentar Arrumar um arduino e alguns componentes (botões e conectores)
-    - firmware de pendrive
-      - se nãe der, script de prototipagem.
-    - console: mostrar entrada, registradores e saídas.
+    - Com placa da stargate de entrada e saídas
 
 #
 
 Algumas referências:
-TIPOS DE PORTAS:
+
+### *REFERÊNCIA BASE:* 
+- Livro do Stalling, Entrada e saída, pag 194 - 227
+
+### *REFERÊNCIA COMPLEMENTAR*
+
+- TIPOS DE PORTAS:
 https://itigic.com/pt/input-and-output-ports-on-pc-types-uses-and-characteristics/
 
-PDF: ENTRADA > REGISTRADORES > SAIDA
+- PDF: ENTRADA > REGISTRADORES > SAIDA
 http://www1.rc.unesp.br/igce/demac/alex/disciplinas/MicroII/EMA864315-IO.pdf
 
-spyboy - How to lock and unlock you pc with pendrive
+- spyboy - How to lock and unlock you pc with pendrive
 https://spyboy.blog/2015/10/12/how-to-lock-and-unlock-your-computer-with-pendrive/
 
-PDF: Entrada e Saída - Organização de computadores, 2007
+- PDF: Entrada e Saída - Organização de computadores, 2007
 http://www.inf.furb.br/~maw/arquitetura/aula5x4.pdf
